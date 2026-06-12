@@ -188,4 +188,4 @@ to create a smarter inventory ecosystem.
 https://github.com/HarshMohite7
 
 💼 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+https://www.linkedin.com/in/harsh-vishwas-mohite-/
